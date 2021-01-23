@@ -23,7 +23,7 @@ WHERE UPPER(FIRST_NAME) = 'NANCY' AND UPPER(LAST_NAME) = 'THOMAS'
 
 -- 7. We’re trying to find a customer located at a certain address ‘259 Ipoh Drive’ 
 -- can you find their phone number?
-SELECT C.FIRST_NAME, C.LAST_NAME,  A.ADDRESS
+SELECT C.FIRST_NAME, C.LAST_NAME,  A.ADDRESS, A.PHONE
 FROM CUSTOMER C
 FULL OUTER JOIN ADDRESS A ON A.ADDRESS_ID = C.ADDRESS_ID
 WHERE ADDRESS = '259 Ipoh Drive'
