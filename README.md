@@ -28,3 +28,20 @@ Unit 3 -- Data Analytics in Python
 • Data Wrangling
 • Visualization
 • Mini Project
+
+
+Unit 4 -- Machine Learning and Modeling Techniques
+• Introduction to Machine Learning
+• Linear Regression
+• Logistic Regression
+• KNN
+• Decision Tree / Random Forest
+
+
+Unit 5 -- Introduction to Data and Databases
+• Select, Where, Distinct
+• Data Types and Tables
+• Count, Limit, Order By
+• Groupby
+• Joins & Unions
+• Insert, Update & Delete
