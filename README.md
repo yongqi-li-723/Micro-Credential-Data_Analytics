@@ -31,6 +31,7 @@ Unit 3 -- Data Analytics in Python
 
 
 Unit 4 -- Machine Learning and Modeling Techniques
+
 • Introduction to Machine Learning
 • Linear Regression
 • Logistic Regression
@@ -39,6 +40,7 @@ Unit 4 -- Machine Learning and Modeling Techniques
 
 
 Unit 5 -- Introduction to Data and Databases
+
 • Select, Where, Distinct
 • Data Types and Tables
 • Count, Limit, Order By
